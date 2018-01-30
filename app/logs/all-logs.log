@@ -1,0 +1,15 @@
+{"level":"info","message":"request GET /blogs","timestamp":"2018-01-30T14:00:05.847Z"}
+{"level":"info","message":"request GET /blogs/5a6f381dacc9ac47505bcafc","timestamp":"2018-01-30T14:00:12.881Z"}
+{"level":"info","message":"request POST /blogs/","timestamp":"2018-01-30T14:00:39.967Z"}
+{"level":"info","message":"request DELETE /blogs/5a6f76bda6d0a421d00421d7","timestamp":"2018-01-30T14:01:28.343Z"}
+{"level":"info","message":"request PUT /blogs/5a6f3cf29cc5d42cec69a4fa","timestamp":"2018-01-30T14:03:39.746Z"}
+{"level":"info","message":"request PUT /blogs/5a6f3cf29cc5d42cec69a4fa","timestamp":"2018-01-30T14:04:27.848Z"}
+{"level":"info","message":"request GET /djdj/kdlk","timestamp":"2018-01-30T14:05:05.779Z"}
+{"level":"info","message":"request GET /blogs/5a6f381dacc9ac47505bcafc","timestamp":"2018-01-30T14:10:09.066Z"}
+{"level":"info","message":"request GET /blogs","timestamp":"2018-01-30T14:20:28.411Z"}
+{"level":"info","message":"request PUT /blogs/5a6f76c5a6d0a421d00421d8","timestamp":"2018-01-30T14:21:02.166Z"}
+{"level":"info","message":"request GET /blogs","timestamp":"2018-01-30T14:21:09.007Z"}
+{"level":"info","message":"request POST /blogs","timestamp":"2018-01-30T16:28:23.395Z"}
+{"level":"info","message":"request GET /blogs/5a6f3cf29cc5d42cec69a4fa","timestamp":"2018-01-30T16:29:39.383Z"}
+{"level":"info","message":"request GET /blogs/5a6f3cf29cc5d42cec69a4fa","timestamp":"2018-01-30T16:29:39.384Z"}
+{"level":"info","message":"request GET /blogs","timestamp":"2018-01-30T16:32:19.409Z"}
